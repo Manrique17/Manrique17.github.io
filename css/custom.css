@@ -1,0 +1,108 @@
+nav{
+    background-color: rgb(90, 53, 139);
+    color: white;
+}
+
+#logo{
+    width: 50px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+#card{
+    width: auto;
+    max-height: 500px;
+    margin-top: 7px;
+    opacity: 0;
+}
+
+#imgCard{
+    border: hidden;
+}
+
+#maincard{
+    margin: auto;
+    max-width: 500px;
+    margin-top: 15%;
+    color: white;
+}
+
+.textCards{
+    margin-top: 10px;
+}
+
+.footer{
+    margin-top: 7px;
+    background-color: rgb(90, 53, 139);
+}
+
+.footerPart{
+    border: hidden; 
+    padding: 5px;
+    background: none;
+    margin-left: 50px;
+}
+
+.animacion{
+    opacity: 0;
+}
+
+/*Galeria*/
+.cardGaleria{
+    padding: 20px;
+}
+
+/*Acerca*/
+.container .titulo {
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+}
+.container .int-contenido .contenido {
+    text-align: justify;
+}
+
+.container .imagen1 {
+    position: relative;
+}
+
+.container .imagen2 {
+    position: relative;
+}
+
+.container .imagen1 .imagen {
+    width: 48%;
+    height: auto;
+    float: left;
+}
+
+.container .imagen2 .imagen {
+    width: 48%;
+    height: auto;
+    float: right;
+}
+
+.container .below { 
+    clear: both;
+}
+
+.container .below .texto1{
+    text-align: center;
+    width: 48%;
+    float: left;
+}
+
+.container .below .texto2{
+    text-align: center;
+    width: 48%;
+    float: right;
+}
+
+section {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.acercaCard{
+    border: hidden;
+}
